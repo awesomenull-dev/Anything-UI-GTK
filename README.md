@@ -1,3 +1,4 @@
+# this project no longer developed. don't use it
 # Anything
 
 GUI for LibAnything with SearchEngine
